@@ -3,6 +3,10 @@ html {
   padding: 0%;
 }
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 #product-overview {
   background: tomato;
 }
@@ -12,10 +16,14 @@ html {
 }
 
 h1 {
-  color: black;
+  color: beige;
   font-family: "Anton", sans-serif;
 }
 
-h1 {
+* {
+    font-family: sans-serif;
+  }
+
+/* h1 {
   font-family: sans-serif;
-}
+} */
