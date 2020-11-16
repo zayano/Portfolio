@@ -1,0 +1,21 @@
+html {
+  background: wheat;
+  padding: 0%;
+}
+
+#product-overview {
+  background: tomato;
+}
+
+.section-title {
+  color: brown;
+}
+
+h1 {
+  color: black;
+  font-family: "Anton", sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+}
