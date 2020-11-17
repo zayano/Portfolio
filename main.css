@@ -9,6 +9,12 @@ body {
 
 #product-overview {
   background: tomato;
+  padding: 20px;
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  margin: 20px;
 }
 
 .section-title {
